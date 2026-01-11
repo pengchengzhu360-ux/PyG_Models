@@ -22,4 +22,4 @@
 ### 3. SchNet
 位于 `schnet/` 文件夹。
 * **运行方式**：包含模型训练代码，直接运行即可。
-* **补充说明**：目前的推理代码可参考（https://github.com/pyg-team/pytorch_geometric/blob/master/examples/qm9_pretrained_schnet.py），后续我会将集成好的推理代码更新至本项目。
+* **补充说明**：目前的推理代码可参考(https://github.com/pyg-team/pytorch_geometric/blob/master/examples/qm9_pretrained_schnet.py)，后续我会将集成好的推理代码更新至本项目。
